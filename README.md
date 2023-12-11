@@ -1,3 +1,5 @@
+## To see the application running please visit: https://glowing-naiad-6dcf93.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
